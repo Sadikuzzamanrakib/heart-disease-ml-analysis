@@ -96,7 +96,7 @@ The project uses multiple visualization techniques to enhance model transparency
 - Feature importance plots (Random Forest)
 
 ## How to Run the Project
-1. Clone this repository:git clone https://github.com/yourusername/heart-disease-ml-analysis.git
+1. Clone this repository:git clone https://github.com/Sadikuzzamanrakib/heart-disease-ml-analysis.git
 2. 2. Open the project in **RStudio**
 3. Run the scripts in order:
 - `01_data_preprocessing.R`
